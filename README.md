@@ -27,4 +27,4 @@ Jpegli（Google製・次世代JPEGエンコーダ）を搭載し、従来のJPEG
 
 ---
 
-© 2025 Karui. All rights reserved.
+© 2026 Karui. All rights reserved.
