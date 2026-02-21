@@ -8,6 +8,12 @@
   <strong>Fast & Lightweight Image Compression App</strong>
 </p>
 
+<p align="center">
+  <a href="https://karui.app">🌐 Website</a> ・
+  <a href="https://karui.app/compress/">🗜️ Web Compressor</a> ・
+  <a href="https://github.com/iKora128/karui-releases/releases/latest">📦 Download</a>
+</p>
+
 ## Download
 
 Download the latest version from [Releases](https://github.com/iKora128/karui-releases/releases).
@@ -27,7 +33,7 @@ Download the latest version from [Releases](https://github.com/iKora128/karui-re
 
 ## Website
 
-https://karui.app
+Visit [karui.app](https://karui.app) for more information, documentation, and the free web compressor tool.
 
 ---
 
